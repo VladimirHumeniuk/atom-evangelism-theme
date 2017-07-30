@@ -1,0 +1,16 @@
+{
+  "name": "evangelism-syntax",
+  "theme": "syntax",
+  "version": "0.9.0",
+  "description": "Syntax theme with soft material colors",
+  "keywords": [
+    "syntax",
+    "theme",
+    "material"
+  ],
+  "repository": "https://github.com/VladimirHumeniuk/atom-evangelism-theme.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
